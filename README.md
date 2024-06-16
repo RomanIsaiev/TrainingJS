@@ -1,0 +1,2 @@
+# TrainingJS
+task solution
