@@ -41,7 +41,7 @@
 // const value2 = 8;
 
 // function checkValue(value) {
-//   return value % 2 === 0 ? "number is even" : "number is odd";
+//   return value % 2 ? "number is odd" : "number is even";
 // }
 
 // console.log(checkValue(value1));
